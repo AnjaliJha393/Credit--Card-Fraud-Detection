@@ -5,7 +5,8 @@ Detection and Analysis of Credit Card Fraud
 ### Technologies Used:-
 -Machine learning
 -python
-### Algorithms used :-
+## Algorithms used :-
+  #### Classification method (Supervised learning)
      1) Logistic Regression
      2) Decision Tree Classifier
      3) Emsemble Techniques which includes :-
